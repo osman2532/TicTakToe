@@ -4,7 +4,7 @@
 }
 
 nav{
-    background-color: rgb(37, 9, 37);
+    background-color: blue;
     color: white;
     height: 65px;
     font-size: 27px;
@@ -82,7 +82,7 @@ nav ul{
 #reset {
     margin: 0 23px;
     padding: 1px 18px;
-    background: #f3e7f9;
+    background: #6adeed;
     border-radius: 6px;
     cursor: pointer;
     font-family: 'Baloo Bhaina 2';
@@ -95,7 +95,7 @@ nav ul{
     height: 3px;
     width: 0;
     position: absolute;
-    background-color: #911d91;
+    background-color:blue;
     transition: width 1s ease-in-out;
 }
 
